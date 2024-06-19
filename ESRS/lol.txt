@@ -1,0 +1,45 @@
+"semi-narrative"  |
+"narrative"  |
+"narrative/numerical"  |
+"integer"  |
+"percent"  |
+"monetary"  |
+"table/monetary"  |
+"narrative/monetary"  |
+"gyear"  |
+"date"  |
+"mdrp"  |
+"nan"  |
+"mdra"  |
+"ghgemissions"  |
+"mdrt"  |
+"table"  |
+"table/ghgemissions"  |
+"table/percent"  |
+"table/decimal"  |
+"energy"  |
+"intensity"  |
+"table/narrative"  |
+"mdr_no_t"  |
+"table/mass"  |
+"mass"  |
+"volume"  |
+"table/volume"  |
+"mdr-t"  |
+"area"  |
+"mdr-a"  |
+"table 1"  |
+"table 1/decimal"  |
+"table 2"  |
+"table 2/decimal"  |
+"table 3"  |
+"table 3/decimal"  |
+"decimal"  |
+"table 4"  |
+"table 4 decimal/integer"  |
+"table /semi-narrative"  |
+"table/integer"  |
+"table/percentage"  |
+"integer/percentage"  |
+"table/numerical"  |
+"mdr-p"  |

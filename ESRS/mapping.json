@@ -1,0 +1,477 @@
+{
+  "BP-1": {
+    "html_id": "d1e5626-3-1",
+    "name": "General basis for preparation of the sustainability statement",
+    "reporting_area": "Basis for preparation"
+  },
+  "BP-2": {
+    "html_id": "d1e5717-3-1",
+    "name": "Disclosures in relation to specific circumstances",
+    "reporting_area": "Basis for preparation"
+  },
+  "GOV-1": {
+    "html_id": "d1e6065-3-1",
+    "name": "The role of the administrative, management and supervisory bodies",
+    "reporting_area": "Governance"
+  },
+  "GOV-2": {
+    "html_id": "d1e6295-3-1",
+    "name": "Information provided to and sustainability matters addressed by the undertaking’s administrative, management and supervisory bodies",
+    "reporting_area": "Governance"
+  },
+  "GOV-3": {
+    "html_id": "d1e6374-3-1",
+    "name": "Integration of sustainability-related performance in incentive schemes",
+    "reporting_area": "Governance"
+  },
+  "GOV-4": {
+    "html_id": "d1e6457-3-1",
+    "name": "Statement on due diligence",
+    "reporting_area": "Governance"
+  },
+  "GOV-5": {
+    "html_id": "d1e6508-3-1",
+    "name": "Risk management and internal controls over sustainability reporting",
+    "reporting_area": "Governance"
+  },
+  "SBM-1": {
+    "html_id": "d1e6625-3-1",
+    "name": "Strategy, business model and value chain",
+    "reporting_area": "Strategy"
+  },
+  "SBM-2": {
+    "html_id": "d1e6898-3-1",
+    "name": "Interests and views of stakeholders",
+    "reporting_area": "Strategy"
+  },
+  "SBM-3": {
+    "html_id": "d1e7031-3-1",
+    "name": "Material impacts, risks and opportunities and their interaction with strategy and business model",
+    "reporting_area": "Strategy"
+  },
+  "IRO-1": {
+    "html_id": "d1e7275-3-1",
+    "name": "Description of the process to identify and assess material impacts, risks and opportunities",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "IRO-2": {
+    "html_id": "d1e7443-3-1",
+    "name": "Disclosure Requirements in ESRS covered by the undertaking’s sustainability statement",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E1.GOV-3": {
+    "html_id": "d1e10569-3-1",
+    "name": "Integration of sustainability-related performance in incentive schemes",
+    "reporting_area": "Governance"
+  },
+  "E1-1": {
+    "html_id": "d1e10597-3-1",
+    "name": "Transition plan for climate change mitigation",
+    "reporting_area": "Strategy"
+  },
+  "E1.SBM-3": {
+    "html_id": "d1e10807-3-1",
+    "name": "Material impacts, risks and opportunities and their interaction with strategy and business model",
+    "reporting_area": "Strategy"
+  },
+  "E1.IRO-1": {
+    "html_id": "d1e10868-3-1",
+    "name": "Description of the processes to identify and assess material climate-related impacts, risks and opportunities",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E1-2": {
+    "html_id": "d1e10995-3-1",
+    "name": "Policies related to climate change mitigation and adaptation",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E1-3": {
+    "html_id": "d1e11132-3-1",
+    "name": "Actions and resources in relation to climate change policies",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E1-4": {
+    "html_id": "d1e11246-3-1",
+    "name": "Targets related to climate change mitigation and adaptation",
+    "reporting_area": "Metrics and targets"
+  },
+  "E1-5": {
+    "html_id": "d1e11429-3-1",
+    "name": "Energy consumption and mix",
+    "reporting_area": "Metrics and targets"
+  },
+  "E1-6": {
+    "html_id": "d1e11639-3-1",
+    "name": "Gross Scopes 1, 2, 3 and Total GHG emissions",
+    "reporting_area": "Metrics and targets"
+  },
+  "E1-7": {
+    "html_id": "d1e11953-3-1",
+    "name": "GHG removals and GHG mitigation projects financed through carbon credits",
+    "reporting_area": "Metrics and targets"
+  },
+  "E1-8": {
+    "html_id": "d1e12119-3-1",
+    "name": "Internal carbon pricing",
+    "reporting_area": "Metrics and targets"
+  },
+  "E1-9": {
+    "html_id": "d1e12176-3-1",
+    "name": "Anticipated financial effects from material physical and transition risks and potential climate-related opportunities",
+    "reporting_area": "Metrics and targets"
+  },
+  "E2.IRO-1": {
+    "html_id": "d1e17012-3-1",
+    "name": "Description of the processes to identify and assess material pollution-related impacts, risks and opportunities",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E2-1": {
+    "html_id": "d1e17066-3-1",
+    "name": "Policies related to pollution",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E2-2": {
+    "html_id": "d1e17183-3-1",
+    "name": "Actions and resources related to pollution",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E2-3": {
+    "html_id": "d1e17268-3-1",
+    "name": "Targets related to pollution",
+    "reporting_area": "Metrics and targets"
+  },
+  "E2-4": {
+    "html_id": "d1e17419-3-1",
+    "name": "Pollution of air, water and soil",
+    "reporting_area": "Metrics and targets"
+  },
+  "E2-5": {
+    "html_id": "d1e17547-3-1",
+    "name": "Substances of concern and substances of very high concern",
+    "reporting_area": "Metrics and targets"
+  },
+  "E2-6": {
+    "html_id": "d1e17594-3-1",
+    "name": "Anticipated financial effects from material pollution-related risks and opportunities",
+    "reporting_area": "Metrics and targets"
+  },
+  "E3.IRO-1": {
+    "html_id": "d1e19227-3-1",
+    "name": "Description of the processes to identify and assess material water and marine resources-related impacts, risks and opportunities",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E3-1": {
+    "html_id": "d1e19273-3-1",
+    "name": "Policies related to water and marine resources",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E3-2": {
+    "html_id": "d1e19451-3-1",
+    "name": "Actions and resources related to water and marine resources",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E3-3": {
+    "html_id": "d1e19559-3-1",
+    "name": "Targets related to water and marine resources",
+    "reporting_area": "Metrics and targets"
+  },
+  "E3-4": {
+    "html_id": "d1e19672-3-1",
+    "name": "Water consumption",
+    "reporting_area": "Metrics and targets"
+  },
+  "E3-5": {
+    "html_id": "d1e19765-3-1",
+    "name": "Anticipated financial effects from material water and marine resources-related risks and opportunities",
+    "reporting_area": "Metrics and targets"
+  },
+  "E4-1": {
+    "html_id": "d1e21231-3-1",
+    "name": "Transition plan and consideration of biodiversity and ecosystems in strategy and business model",
+    "reporting_area": "Strategy"
+  },
+  "E4.SBM-3": {
+    "html_id": "d1e21347-3-1",
+    "name": "Material impacts, risks and opportunities and their interaction with strategy and business model",
+    "reporting_area": "Strategy"
+  },
+  "E4.IRO-1": {
+    "html_id": "d1e21462-3-1",
+    "name": "Description of processes to identify and assess material biodiversity and ecosystem-related impacts, risks, dependencies and opportunities",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E4-2": {
+    "html_id": "d1e21662-3-1",
+    "name": "Policies related to biodiversity and ecosystems",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E4-3": {
+    "html_id": "d1e21876-3-1",
+    "name": "Actions and resources related to biodiversity and ecosystems",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E4-4": {
+    "html_id": "d1e21988-3-1",
+    "name": "Targets related to biodiversity and ecosystems",
+    "reporting_area": "Metrics and targets"
+  },
+  "E4-5": {
+    "html_id": "d1e22132-3-1",
+    "name": "Impact metrics related to biodiversity and ecosystems change",
+    "reporting_area": "Metrics and targets"
+  },
+  "E4-6": {
+    "html_id": "d1e22384-3-1",
+    "name": "Anticipated financial effects from material biodiversity and ecosystem-related risks and opportunities",
+    "reporting_area": "Metrics and targets"
+  },
+  "E5.IRO-1": {
+    "html_id": "d1e24761-3-1",
+    "name": "Description of the processes to identify and assess material resource use and circular economy-related impacts, risks and opportunities",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E5-1": {
+    "html_id": "d1e24815-3-1",
+    "name": "Policies related to resource use and circular economy",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E5-2": {
+    "html_id": "d1e24900-3-1",
+    "name": "Actions and resources related to resource use and circular economy",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "E5-3": {
+    "html_id": "d1e25013-3-1",
+    "name": "Targets related to resource use and circular economy",
+    "reporting_area": "Metrics and targets"
+  },
+  "E5-4": {
+    "html_id": "d1e25174-3-1",
+    "name": "Resource inflows",
+    "reporting_area": "Metrics and targets"
+  },
+  "E5-5": {
+    "html_id": "d1e25238-3-1",
+    "name": "Resource outflows",
+    "reporting_area": "Metrics and targets"
+  },
+  "E5-6": {
+    "html_id": "d1e25503-3-1",
+    "name": "Anticipated financial effects from material resource use and circular economy-related risks and opportunities",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1.SBM-3": {
+    "html_id": "d1e27143-3-1",
+    "name": "Material impacts, risks and opportunities and their interaction with strategy and business model",
+    "reporting_area": "Strategy"
+  },
+  "S1-1": {
+    "html_id": "d1e27417-3-1",
+    "name": "Policies related to own workforce",
+    "reporting_area": "Impacts, risks and opportunities management"
+  },
+  "S1-2": {
+    "html_id": "d1e27650-3-1",
+    "name": "Processes for engaging with own workforce and workers’ representatives about impacts",
+    "reporting_area": "Impacts, risks and opportunities management"
+  },
+  "S1-3": {
+    "html_id": "d1e27751-3-1",
+    "name": "Processes to remediate negative impacts and channels for own workforce to raise concerns",
+    "reporting_area": "Impacts, risks and opportunities management"
+  },
+  "S1-4": {
+    "html_id": "d1e27868-3-1",
+    "name": "Taking action on material impacts on own workforce, and approaches to managing material risks and pursuing material opportunities related to own workforce, and effectiveness of those actions",
+    "reporting_area": "Impacts, risks and opportunities management"
+  },
+  "S1-5": {
+    "html_id": "d1e28068-3-1",
+    "name": "Targets related to managing material negative impacts, advancing positive impacts, and managing material risks and opportunities",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-6": {
+    "html_id": "d1e28187-3-1",
+    "name": "Characteristics of the undertaking’s employees",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-7": {
+    "html_id": "d1e28325-3-1",
+    "name": "Characteristics of non-employees in the undertaking’s own workforce",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-8": {
+    "html_id": "d1e28429-3-1",
+    "name": "Collective bargaining coverage and social dialogue",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-9": {
+    "html_id": "d1e28557-3-1",
+    "name": "Diversity metrics",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-10": {
+    "html_id": "d1e28602-3-1",
+    "name": "Adequate wages",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-11": {
+    "html_id": "d1e28663-3-1",
+    "name": "Social protection",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-12": {
+    "html_id": "d1e28758-3-1",
+    "name": "Persons with disabilities",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-13": {
+    "html_id": "d1e28806-3-1",
+    "name": "Training and skills development metrics",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-14": {
+    "html_id": "d1e28881-3-1",
+    "name": "Health and safety metrics",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-15": {
+    "html_id": "d1e29014-3-1",
+    "name": "Work-life balance metrics",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-16": {
+    "html_id": "d1e29076-3-1",
+    "name": "Remuneration metrics (pay gap and total remuneration)",
+    "reporting_area": "Metrics and targets"
+  },
+  "S1-17": {
+    "html_id": "d1e29173-3-1",
+    "name": "Incidents, complaints and severe human rights impacts",
+    "reporting_area": "Metrics and targets"
+  },
+  "S2.SBM-3": {
+    "html_id": "d1e32961-3-1",
+    "name": "Material impacts, risks and opportunities and their interaction with strategy and business model",
+    "reporting_area": "Strategy"
+  },
+  "S2-1": {
+    "html_id": "d1e33180-3-1",
+    "name": "Policies related to value chain workers",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S2-2": {
+    "html_id": "d1e33360-3-1",
+    "name": "Processes for engaging with value chain workers about impacts",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S2-3": {
+    "html_id": "d1e33444-3-1",
+    "name": "Processes to remediate negative impacts and channels for value chain workers to raise concerns",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S2-4": {
+    "html_id": "d1e33534-3-1",
+    "name": "Taking action on material impacts on value chain workers, and approaches to managing material risks and pursuing material opportunities related to value chain workers, and effectiveness of those actions",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S2-5": {
+    "html_id": "d1e33769-3-1",
+    "name": "Targets related to managing material negative impacts, advancing positive impacts, and managing material risks and opportunities",
+    "reporting_area": "Metrics and targets"
+  },
+  "S3.SBM-3": {
+    "html_id": "d1e35189-3-1",
+    "name": "Material impacts, risks and opportunities and their interaction with strategy and business model",
+    "reporting_area": "Strategy"
+  },
+  "S3-1": {
+    "html_id": "d1e35366-3-1",
+    "name": "Policies related to affected communities",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S3-2": {
+    "html_id": "d1e35508-3-1",
+    "name": "Processes for engaging with affected communities about impacts",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S3-3": {
+    "html_id": "d1e35616-3-1",
+    "name": "Processes to remediate negative impacts and channels for affected communities to raise concerns",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S3-4": {
+    "html_id": "d1e35707-3-1",
+    "name": "Taking action on material impacts on affected communities, and approaches to managing material risks and pursuing material opportunities related to affected communities, and effectiveness of those actions",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S3-5": {
+    "html_id": "d1e35909-3-1",
+    "name": "Targets related to managing material negative impacts, advancing positive impacts, and managing material risks and opportunities",
+    "reporting_area": "Metrics and targets"
+  },
+  "S4.SBM-3": {
+    "html_id": "d1e37389-3-1",
+    "name": "Material impacts, risks and opportunities and their interaction with strategy and business model",
+    "reporting_area": "Strategy"
+  },
+  "S4-1": {
+    "html_id": "d1e37568-3-1",
+    "name": "Policies related to consumers and end-users",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S4-2": {
+    "html_id": "d1e37700-3-1",
+    "name": "Processes for engaging with consumers and end-users about impacts",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S4-3": {
+    "html_id": "d1e37803-3-1",
+    "name": "Processes to remediate negative impacts and channels for consumers and end-users to raise concerns",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S4-4": {
+    "html_id": "d1e37898-3-1",
+    "name": "Taking action on material impacts on consumers and end- users, and approaches to managing material risks and pursuing material opportunities related to consumers and end-users, and effectiveness of those actions",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "S4-5": {
+    "html_id": "d1e38137-3-1",
+    "name": "Targets related to managing material negative impacts, advancing positive impacts, and managing material risks and opportunities",
+    "reporting_area": "Metrics and targets"
+  },
+  "G1.GOV-1": {
+    "html_id": "d1e39408-3-1",
+    "name": "The role of the administrative, management and supervisory bodies",
+    "reporting_area": "Governance"
+  },
+  "G1-1": {
+    "html_id": "d1e39460-3-1",
+    "name": "Business conduct policies and corporate culture",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "G1-2": {
+    "html_id": "d1e39645-3-1",
+    "name": "Management of relationships with suppliers",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "G1-3": {
+    "html_id": "d1e39710-3-1",
+    "name": "Prevention and detection of corruption and bribery",
+    "reporting_area": "Impact, risk and opportunity management"
+  },
+  "G1-4": {
+    "html_id": "d1e39833-3-1",
+    "name": "Incidents of corruption or bribery",
+    "reporting_area": "Metrics and targets"
+  },
+  "G1-5": {
+    "html_id": "d1e39965-3-1",
+    "name": "Political influence and lobbying activities",
+    "reporting_area": "Metrics and targets"
+  },
+  "G1-6": {
+    "html_id": "d1e40052-3-1",
+    "name": "Payment practices",
+    "reporting_area": "Metrics and targets"
+  }
+}
